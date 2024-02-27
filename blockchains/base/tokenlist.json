@@ -1,0 +1,407 @@
+{
+    "name": "TheForged Menu",
+    "timestamp": "2024-02-26T23:43:32.770Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Balancer",
+            "symbol": "BAL",
+            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Compound",
+            "symbol": "COMP",
+            "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18,
+            "stable": true
+        },
+        {
+            "name": "FARM Reward Token",
+            "symbol": "FARM",
+            "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "HanChain",
+            "symbol": "HAN",
+            "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "HANePlatform",
+            "symbol": "HANeP",
+            "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "iFARM",
+            "symbol": "iFARM",
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "MBS",
+            "symbol": "MBS",
+            "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6,
+            "stable": true
+        },
+        {
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6,
+            "stable": true
+        },
+        {
+            "name": "USD Base Coin",
+            "symbol": "USDbC",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6,
+            "stable": true
+        },
+        {
+            "name": "Axelar Wrapped USDT",
+            "symbol": "axlUSDT",
+            "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6,
+            "stable": true
+        },
+        {
+            "name": "Magic Internet Money",
+            "symbol": "MIM",
+            "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18,
+            "stable": true
+        },
+        {
+            "name": "USD+",
+            "symbol": "USD+",
+            "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6,
+            "stable": true
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Coinbase Wrapped Staked ETH",
+            "symbol": "cbETH",
+            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BasedVelocimeter",
+            "symbol": "BVM",
+            "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BASE",
+            "symbol": "BASE",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "RocketSwap",
+            "symbol": "RCKT",
+            "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Baseswap Token",
+            "symbol": "BSWAP",
+            "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "SHREKT",
+            "symbol": "OGRE",
+            "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Dackie Token",
+            "symbol": "DACKIE",
+            "address": "0xc2BC7A73613B9bD5F373FE10B55C59a69F4D617B",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BASO",
+            "symbol": "BASO",
+            "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BLAZE",
+            "symbol": "BLAZE",
+            "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 9
+        },
+        {
+            "name": "Synth Token",
+            "symbol": "SYNTH",
+            "address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Throne",
+            "symbol": "OATH",
+            "address": "0x798aCF1BD6E556F0C3cd72e77b3d169D26a28ab5",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "based.markets",
+            "symbol": "BASED",
+            "address": "0xBa5E6fa2f33f3955f0cef50c63dCC84861eAb663",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Basin Protocol",
+            "symbol": "BASIN",
+            "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "AlienBase Token",
+            "symbol": "ALB",
+            "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Aerodrome",
+            "symbol": "AERO",
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BullRun",
+            "symbol": "BULLRUN",
+            "address": "0x1A9132ee02d7E98e51b7389D2e7BB537184867Aa",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BASED Token",
+            "symbol": "BASED",
+            "address": "0x9CBD543f1B1166b2Df36b68Eb6bB1DcE24E6aBDf",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "NetherFi",
+            "symbol": "NFI",
+            "address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Wrapped BMX Liquidity Token",
+            "symbol": "wBLT",
+            "address": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BMX",
+            "symbol": "BMX",
+            "address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Scale",
+            "symbol": "SCALE",
+            "address": "0x54016a4848a38f257B6E96331F7404073Fd9c32C",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "bSHARE Token",
+            "symbol": "bSHARE",
+            "address": "0xD0A96c9b21565a7B73d006C02E56E09438b51C1B",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "BaldxToken",
+            "symbol": "BALDX",
+            "address": "0x652440D45cDaFe2fC5923DB35ba0d8B8250B54c1",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Xena",
+            "symbol": "XEN",
+            "address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "zETH",
+            "symbol": "zETH",
+            "address": "0x5a1F355A0227d30d8258734dD3690D2b14355856",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "ZED",
+            "symbol": "ZED",
+            "address": "0x5F819f701D6Ca4A38ceCa5C23e72528580b01977",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "ZSHARE",
+            "symbol": "ZSHARE",
+            "address": "0xEE3Ad70247C42B80D4b46572B920F5d09D893fcF",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Particles Money xETH",
+            "symbol": "xETH",
+            "address": "0xC4655EB36aa7F1E476A3059A609443dEd02aB61F",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Particles Money Particle",
+            "symbol": "PARTICLE",
+            "address": "0xaFe5451185513925F5E757F001425338Ff93412D",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
+            "name": "Insane Technology",
+            "symbol": "IT",
+            "address": "0x17C48fC16136F3dE9168783C5F4f99d5C635df3F",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 6
+        },
+        {
+            "name": "Insane Technology Index",
+            "symbol": "ITX",
+            "address": "0xBCBAe0DD948b404e2157Ff395caCB10ABFc2b52A",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
+        }
+    ]
+}
