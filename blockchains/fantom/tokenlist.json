@@ -93,7 +93,7 @@
             "address": "0x1e2ea3f3209d66647f959cf00627107e079b870d",
             "chainId": 250,
             "logoURI": "",
-            "decimals": 18,
+            "decimals": 18
         },        
         {
             "name": "ChainLink",
