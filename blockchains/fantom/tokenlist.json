@@ -553,6 +553,14 @@
             "decimals": 18
         },
         {
+            "name": "pEQUAL",
+            "symbol": "pEQUAL",
+            "address": "0xf773e8590a7411154e590a6d1e2648497c60ae6f",
+            "chainId": 250,
+            "logoURI": "",
+            "decimals": 18
+        },
+        {
             "name": "MUMMY",
             "symbol": "MMY",
             "address": "0x01e77288b38b416F972428d562454fb329350bAc",
