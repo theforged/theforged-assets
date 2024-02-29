@@ -1,6 +1,6 @@
 {
     "name": "TheForged Menu",
-    "timestamp": "2024-02-26T23:43:32.770Z",
+    "timestamp": "2024-02-29T23:43:32.770Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -13,22 +13,6 @@
     ],
     "tokens": [
         {
-            "name": "Balancer",
-            "symbol": "BAL",
-            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Compound",
-            "symbol": "COMP",
-            "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -36,38 +20,6 @@
             "logoURI": "",
             "decimals": 18,
             "stable": true
-        },
-        {
-            "name": "FARM Reward Token",
-            "symbol": "FARM",
-            "address": "0xD08a2917653d4E460893203471f0000826fb4034",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "HanChain",
-            "symbol": "HAN",
-            "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "HANePlatform",
-            "symbol": "HANeP",
-            "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "iFARM",
-            "symbol": "iFARM",
-            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
         },
         {
             "name": "MBS",
@@ -140,14 +92,6 @@
             "decimals": 18
         },
         {
-            "name": "0x Protocol Token",
-            "symbol": "ZRX",
-            "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
             "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
@@ -172,52 +116,12 @@
             "decimals": 18
         },
         {
-            "name": "RocketSwap",
-            "symbol": "RCKT",
-            "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
             "name": "Baseswap Token",
             "symbol": "BSWAP",
             "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
             "chainId": 8453,
             "logoURI": "",
             "decimals": 18
-        },
-        {
-            "name": "SHREKT",
-            "symbol": "OGRE",
-            "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Dackie Token",
-            "symbol": "DACKIE",
-            "address": "0xc2BC7A73613B9bD5F373FE10B55C59a69F4D617B",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "BASO",
-            "symbol": "BASO",
-            "address": "0x23E1A3BcDcEE4C59209d8871140eB7DD2bD9d1cE",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "BLAZE",
-            "symbol": "BLAZE",
-            "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 9
         },
         {
             "name": "Synth Token",
@@ -228,33 +132,9 @@
             "decimals": 18
         },
         {
-            "name": "Throne",
-            "symbol": "OATH",
-            "address": "0x798aCF1BD6E556F0C3cd72e77b3d169D26a28ab5",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
             "name": "based.markets",
             "symbol": "BASED",
             "address": "0xBa5E6fa2f33f3955f0cef50c63dCC84861eAb663",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Basin Protocol",
-            "symbol": "BASIN",
-            "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "AlienBase Token",
-            "symbol": "ALB",
-            "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
             "chainId": 8453,
             "logoURI": "",
             "decimals": 18
@@ -316,22 +196,6 @@
             "decimals": 18
         },
         {
-            "name": "bSHARE Token",
-            "symbol": "bSHARE",
-            "address": "0xD0A96c9b21565a7B73d006C02E56E09438b51C1B",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "BaldxToken",
-            "symbol": "BALDX",
-            "address": "0x652440D45cDaFe2fC5923DB35ba0d8B8250B54c1",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
             "name": "yearn.finance",
             "symbol": "YFI",
             "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
@@ -348,60 +212,13 @@
             "decimals": 18
         },
         {
-            "name": "zETH",
-            "symbol": "zETH",
-            "address": "0x5a1F355A0227d30d8258734dD3690D2b14355856",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "ZED",
-            "symbol": "ZED",
-            "address": "0x5F819f701D6Ca4A38ceCa5C23e72528580b01977",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "ZSHARE",
-            "symbol": "ZSHARE",
-            "address": "0xEE3Ad70247C42B80D4b46572B920F5d09D893fcF",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Particles Money xETH",
-            "symbol": "xETH",
-            "address": "0xC4655EB36aa7F1E476A3059A609443dEd02aB61F",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Particles Money Particle",
-            "symbol": "PARTICLE",
-            "address": "0xaFe5451185513925F5E757F001425338Ff93412D",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 18
-        },
-        {
-            "name": "Insane Technology",
-            "symbol": "IT",
-            "address": "0x17C48fC16136F3dE9168783C5F4f99d5C635df3F",
-            "chainId": 8453,
-            "logoURI": "",
-            "decimals": 6
-        },
-        {
-            "name": "Insane Technology Index",
-            "symbol": "ITX",
-            "address": "0xBCBAe0DD948b404e2157Ff395caCB10ABFc2b52A",
+            "name": "DAI+",
+            "symbol": "DAI+",
+            "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
             "chainId": 8453,
             "logoURI": "",
             "decimals": 18
         }
+        
     ]
 }
