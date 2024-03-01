@@ -1,0 +1,104 @@
+{
+  "name": "TheForged Menu",
+  "timestamp": "2024-03-1T23:43:32.770Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USDB",
+      "symbol": "USDB",
+      "address": "0x4300000000000000000000000000000000000003",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "WETH",
+      "symbol": "Wrapped Ether",
+      "address": "0x4300000000000000000000000000000000000004",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "ORBIT",
+      "symbol": "Orbit Protocol",
+      "address": "0x42e12d42b3d6c4a74a88a61063856756ea2db357",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "PUMP",
+      "symbol": "Pump",
+      "address": "0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "MIA",
+      "symbol": "Mia",
+      "address": "0xa4c7aa67189ec5623121c6c94ec757dfed932d4b",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "BEPE",
+      "symbol": "Blast Pepe",
+      "address": "0xb582dc28968c725d2868130752afa0c13ebf9b1a",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "$PACM",
+      "symbol": "P@cman Blastoff",
+      "address": "0x0b4d0ee29857c3961b380d4ec138ea5814e346b9",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "AI",
+      "symbol": "Any Inu (non-ITS)",
+      "address": "0x764933fbad8f5d04ccd088602096655c2ed9879f",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "FINGER",
+      "symbol": "Finger Blast",
+      "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "BCAT",
+      "symbol": "BlastCat",
+      "address": "0x9bd75c164daf830733ac2ea71a0258f95aac7c57",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    },
+    {
+      "name": "BINU",
+      "symbol": "Blast Inu",
+      "address": "0x34050224f9ea1859790b7cbbbe2264f1204771a6",
+      "chainId": 81457,
+      "logoURI": "",
+      "decimals": 18
+    }
+  ]
+}
