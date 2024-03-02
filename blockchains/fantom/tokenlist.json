@@ -786,6 +786,14 @@
             "chainId": 250,
             "logoURI": "",
             "decimals": 18
+        },
+        {
+            "name": "GOAT404",
+            "symbol": "GOAT",
+            "address": "0xcd62f054eee65c8d23fe2adc8bae0443d4ec82db",
+            "chainId": 250,
+            "logoURI": "",
+            "decimals": 18
         }
     ]
 }
