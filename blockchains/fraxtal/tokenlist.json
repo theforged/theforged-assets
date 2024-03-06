@@ -14,7 +14,7 @@
     "tokens": [
         {
             "name": "Staked Frax Ether",
-            "address": "0xFC00000000000000000000000000000000000005",
+            "address": "0xfc00000000000000000000000000000000000005",
             "symbol": "sfrxETH",
             "logoURI": "",
             "chainId": 252,
@@ -22,7 +22,7 @@
         },
         {
             "name": "Wrapped Frax Ether",
-            "address": "0xFC00000000000000000000000000000000000006",
+            "address": "0xfc00000000000000000000000000000000000006",
             "symbol": "wfrxETH",
             "logoURI": "",
             "chainId": 252,
@@ -30,7 +30,7 @@
         },
         {
             "name": "Frax Share",
-            "address": "0xFc00000000000000000000000000000000000002",
+            "address": "0xfc00000000000000000000000000000000000002",
             "symbol": "FXS",
             "logoURI": "",
             "chainId": 252,
@@ -38,7 +38,7 @@
         },
         {
             "name": "Frax",
-            "address": "0xFc00000000000000000000000000000000000001",
+            "address": "0xfc00000000000000000000000000000000000001",
             "symbol": "FRAX",
             "logoURI": "",
             "chainId": 252,
@@ -54,7 +54,7 @@
         },
         {
             "name": "Frax Bitcoin",
-            "address": "0xfC00000000000000000000000000000000000007",
+            "address": "0xfc00000000000000000000000000000000000007",
             "symbol": "frxBTC",
             "logoURI": "",
             "chainId": 252,
@@ -62,7 +62,7 @@
         },
         {
             "name": "Frax Price Index",
-            "address": "0xFc00000000000000000000000000000000000003",
+            "address": "0xfc00000000000000000000000000000000000003",
             "symbol": "FPI",
             "logoURI": "",
             "chainId": 252,
@@ -78,7 +78,7 @@
         },
         {
             "name": "Frax Doge",
-            "address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+            "address": "0xdebb8a79b025b2fc2ca506f0c69497b60b91235c",
             "symbol": "FXD",
             "logoURI": "",
             "chainId": 252,
