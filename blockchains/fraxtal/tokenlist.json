@@ -1,0 +1,88 @@
+{
+    "name": "TheForged Menu",
+    "timestamp": "2024-03-05T23:43:32.770Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": [
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Staked Frax Ether",
+            "address": "0xFC00000000000000000000000000000000000005",
+            "symbol": "sfrxETH",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Wrapped Frax Ether",
+            "address": "0xFC00000000000000000000000000000000000006",
+            "symbol": "wfrxETH",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Frax Share",
+            "address": "0xFc00000000000000000000000000000000000002",
+            "symbol": "FXS",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Frax",
+            "address": "0xFc00000000000000000000000000000000000001",
+            "symbol": "FRAX",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Staked FRAX",
+            "address": "0xfc00000000000000000000000000000000000008",
+            "symbol": "sFRAX",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Frax Bitcoin",
+            "address": "0xfC00000000000000000000000000000000000007",
+            "symbol": "frxBTC",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Frax Price Index",
+            "address": "0xFc00000000000000000000000000000000000003",
+            "symbol": "FPI",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "FPI Share",
+            "address": "0xfc00000000000000000000000000000000000004",
+            "symbol": "FPIS",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        },
+        {
+            "name": "Frax Doge",
+            "address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+            "symbol": "FXD",
+            "logoURI": "",
+            "chainId": 252,
+            "decimals": 18
+        }
+    ]
+}
