@@ -794,6 +794,14 @@
             "chainId": 250,
             "logoURI": "",
             "decimals": 18
+        },
+        {
+            "name": "Morphex Wrapped sMLPv2",
+            "symbol": "wMLP",
+            "address": "0xae4846b148a65782865a4849e940575f77359b2b",
+            "chainId": 250,
+            "logoURI": "",
+            "decimals": 18
         }
     ]
 }
