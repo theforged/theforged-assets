@@ -218,7 +218,14 @@
             "chainId": 8453,
             "logoURI": "",
             "decimals": 18
+        },
+        {
+            "name": "Wrapped BMX Liquidity Token",
+            "symbol": "wBLT",
+            "address": "0x4e74d4db6c0726ccded4656d0bce448876bb4c7a",
+            "chainId": 8453,
+            "logoURI": "",
+            "decimals": 18
         }
-        
     ]
 }
