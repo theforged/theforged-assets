@@ -15,57 +15,57 @@
       {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
         "decimals": 18
       },
       {
         "name": "USD Coin",
         "symbol": "USDC",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
         "decimals": 6
       },
       {
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0xeb466342c4d449bc9f53a865d5cb90586f405215/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0xeb466342c4d449bc9f53a865d5cb90586f405215/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
         "decimals": 6
       },
       {
         "name": "USD Base Coin",
         "symbol": "USDbC",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
         "decimals": 6
       },
       {
         "name": "Axelar Wrapped USDT",
         "symbol": "axlUSDT",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
         "decimals": 6
       },
       {
         "name": "Wrapped Ether",
         "symbol": "WETH",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0x4200000000000000000000000000000000000006",
         "decimals": 18
       },
       {
         "name": "Coinbase Wrapped Staked ETH",
         "symbol": "cbETH",
-        "address": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/theforged/theforged-assets/test/blockchains/base/assets/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22/logo.png",
         "chainId": 8453,
-        "logoURI": "",
+        "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
         "decimals": 18
       }
     ]
